@@ -30,7 +30,7 @@
     "exports-loader": "^0.7.0",
     "hound": "^1.0.5",
     "html-loader": "^0.5.5",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "node-sass": "^4.13.1",
     "postcss-loader": "^3.0.0",
     "prettier": "1.19.1",
@@ -39,7 +39,7 @@
     "stylelint": "^13.2.0",
     "stylelint-webpack-plugin": "^1.2.3",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
